@@ -24,7 +24,7 @@ Now clone the forked repository to your machine. Go to your GitHub account, open
 Open a terminal and run the following git command:
 
 ```
-git clone "url you just copied"
+git clone [url you just copied]
 ```
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
@@ -50,7 +50,7 @@ cd first-contributions
 Now create a branch using the `git checkout` command:
 
 ```
-git checkout -b your-new-branch-name
+git checkout -b [your-new-branch-name]
 ```
 
 For example:
@@ -74,7 +74,7 @@ git add Contribute.json
 Now commit those changes using the `git commit` command:
 
 ```
-git commit -m "Add your-name to Contributors list"
+git commit -m "contribution: Added [your-name] to Contributors list"
 ```
 
 replacing `your-name` with your name.
@@ -92,11 +92,11 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 <details>
 <summary> <strong>If you get any errors while pushing, click here:</strong> </summary>
 
-- ### Authentication Error
-     <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
-  remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
-  fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
-  Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
+-   ### Authentication Error
+       <pre>remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+    remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+    fatal: Authentication failed for 'https://github.com/<your-username>/first-contributions.git/'</pre>
+    Go to [GitHub's tutorial](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account) on generating and configuring an SSH key to your account.
 
 </details>
 

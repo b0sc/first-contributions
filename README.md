@@ -8,10 +8,11 @@ Go to `Contributing.md` file and follow the steps to make your first contributio
 
 When editing the `contribute.json` file please follow the following guidelines:
 
-- Do not change the order of the key-value pairs or format of json object.
-- Submit your name, tag and github profile link in the same format as the previous entries.
-- Do not add at beginning or end of the file.
-- Open pull request only once.
+-   Do not change the order of the key-value pairs or format of json object.
+-   Submit your name, tag and github profile link in the same format as the previous entries.
+-   Do not add at beginning or end of the file.
+-   Open pull request only once.
+-   Indentation should be 2 spaces.
 
 ## About the Files
 
