@@ -5,16 +5,20 @@
       "url": "https://github.com/b0sc",
       "tag": "Club"
     },
-
     {
       "name": "Achyut Koirala",
       "url": "https://github.com/axyut",
       "tag": "Backend Developer"
-    }
+    },
     {
       "name": "Bijesh Ghimire",
       "url": "https://github.com/BIIJESH",
       "tag": "Backend Developer"
+    },
+    {
+      "name": "Kushal Pathak",
+      "url": "https://github.com/Kushal-Pathak",
+      "tag": "Fullstack Developer"
     }
   ]
 }
