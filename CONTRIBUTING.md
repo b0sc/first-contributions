@@ -6,7 +6,7 @@ For any popular open source project a `CONTRIBUTING.md` file is a path to get st
 
 This project aims to simplify and guide the way beginners make their first contribution. If you are looking to make your first contribution, follow the steps below.
 
-<img align="right" width="300" src="./Assets/fork.png" alt="fork this repository" />
+<img align="right" width="300" src="./assets/fork.png" alt="fork this repository" />
 
 #### If you don't have git on your machine, [install it](https://docs.github.com/en/get-started/quickstart/set-up-git).
 
@@ -17,7 +17,7 @@ This will create a copy of this repository in your account.
 
 ## Clone the repository
 
-<img align="right" width="300" src="./Assets/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="./assets/clone.png" alt="clone this repository" />
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
 
@@ -29,7 +29,7 @@ git clone [url you just copied]
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="./Assets/copy-clone.png" alt="copy URL to clipboard" />
+<img align="right" width="300" src="./assets/copy-clone.png" alt="copy URL to clipboard" />
 
 For example:
 
@@ -102,11 +102,13 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
+If you go to your repository on GitHub, you'll see a `Contribute` button. Click on that button.
 
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="Assets/pr" alt="create a pull request" />
 
-Now submit the pull request.
+Now Open the pull request.
+
+Some Repository will have a template for the pull request. If there is a template, fill it out as requested. If there is no template, its best to write a brief description of the changes you made.
 
 <img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
 
