@@ -104,7 +104,7 @@ replacing `your-branch-name` with the name of the branch you created earlier.
 
 If you go to your repository on GitHub, you'll see a `Contribute` button. Click on that button.
 
-<img style="float: right;" src="Assets/pr" alt="create a pull request" />
+<img style="float: right;" src="./assets/pr" alt="create a pull request" />
 
 Now Open the pull request.
 
