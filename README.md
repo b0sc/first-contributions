@@ -4,7 +4,7 @@ A guideline to the contribution process to streamline the journey to open-source
 
 ## WHAT TO DO?
 
-Go to `Contributing.md` file and follow the steps to make your first contribution to open source world.
+Go to [`CONTRIBUTING.md`](CONTRIBUTING.md) file and follow the steps to make your first contribution to open source world.
 
 When editing the `contribute.json` file please follow the following guidelines:
 
