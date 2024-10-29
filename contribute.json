@@ -42,10 +42,15 @@
     },
     {
       "name": "Sunil Shrestha",
-      "url": "https://github.com/Xtha-Sunil"
+      "url": "https://github.com/Xtha-Sunil",
       "tag": "Backend Developer"
     },
-        {
+    {
+      "name": "Upendra Raj Joshi",
+      "url": "https://github.com/Upendra48",
+      "tag":"MobileApp Developer"
+    },
+    {
       "name": "Subin Shakya",
       "url": "https://github.com/subin-shk"
       "tag": "Front-end Developer"
