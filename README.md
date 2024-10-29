@@ -30,7 +30,7 @@ A license is a legal tool you can use to protect your open source project. It is
 
 ## ABOUT BOSC
 
-BOSC(Birendra Open Source Community) is a student-run organization at Birendra Multiple Campus that aims to promote open source culture among students. We are a group of students who are passionate about open source and want to help others get started with open source.
+BOSC(Birendra Open Source Club) is a student-run organization at Birendra Multiple Campus that aims to promote open source culture among students. We are a group of students who are passionate about open source and want to help others get started with open source.
 
 ---
 
