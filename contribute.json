@@ -52,8 +52,13 @@
     },
     {
       "name": "Subin Shakya",
-      "url": "https://github.com/subin-shk"
+      "url": "https://github.com/subin-shk",
       "tag": "Front-end Developer"
+    },
+    {
+      "name": "Srisan Chaudhary",
+      "url": "https://github.com/codesris",
+      "tag": "Full Stack Developer"
     }
   ]
 }
