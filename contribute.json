@@ -36,6 +36,11 @@
       "tag": "Full Stack Developer"
     },
     {
+      "name":"Prasamsha Baral",
+      "url":"https://github.com/prasamsha-baral",
+      "tag":"Front-end Developer"
+    },
+    {
       "name": "Shishir Rijal",
       "url": "https://github.com/ShishirRijal",
       "tag": "MobileApp Developer"
@@ -71,6 +76,11 @@
       "tag": "Front-end Developer"
     },
     {
+      "name": "Apil Poudel ",
+      "url": "https://github.com/apilP77",
+      "tag": "Developer"
+    },
+    {
       "name": "Srisan Chaudhary",
       "url": "https://github.com/codesris",
       "tag": "Full Stack Developer"
@@ -104,6 +114,15 @@
       "name": "Biraj Bhatta",
       "url": "https://github.com/Biraj-Bhatta",
       "tag": "Web Developer"
+      "name": "Sudeep Sigdel ",
+      "url": "https://github.com/SudeepSigdel",
+      "tag": "Backend Developer"
+    },
+    {
+      "name": "Rabin Poudel ",
+      "url": "https://github.com/rabin202",
+      "tag": "Developer"
     }
+    
   ]
 }
